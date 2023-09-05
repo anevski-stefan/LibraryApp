@@ -18,13 +18,13 @@ The application is built using the Java Spring Boot framework and follows the Mo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/anevski-stefan/Emt-2023.git
+git clone https://github.com/anevski-stefan/LibraryApp.git
 ```
 
 2. Install React.js dependencies:
 
 ```bash
-cd Emt-2023/frontend
+cd LibraryApp/frontend
 npm install
 ```
 
