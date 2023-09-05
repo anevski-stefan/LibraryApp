@@ -1,5 +1,5 @@
 
-# Emt Library App - 2023
+# Library App - 2023
 
 This repository contains the code and documentation for the project developed as part of the EMT course in 2023 at the Faculty of Computer Science and Engineering.
 
